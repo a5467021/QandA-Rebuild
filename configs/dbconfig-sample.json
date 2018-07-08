@@ -1,0 +1,8 @@
+{
+  "user": "QAndA",
+  "port": 3306,
+  "password": "passwd",
+  "dbname": "QAndA",
+  "host": "127.0.0.1",
+  "charset": "utf8"
+}
