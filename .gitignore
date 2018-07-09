@@ -3,6 +3,8 @@
 
 # User-specific files
 *.suo
+*.sln
+*.pyproj
 *.user
 *.sln.docstates
 __pycache__
